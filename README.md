@@ -1,4 +1,4 @@
-# multidomain_parser
+# open_domain_parser
 
 Requirements:
 
